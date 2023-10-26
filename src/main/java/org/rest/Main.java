@@ -12,9 +12,9 @@ public class GenerateQRcode {
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         frame.setSize(new Dimension(300,300));
 
-
         frame.add(panel);
 
+        //
         frame.setVisible(true);
     }
 
